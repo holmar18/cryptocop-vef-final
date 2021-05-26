@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Cryptocop.Software.API.Models
+{
+    public class Envelope<T> where T : class
+    {
+        public Envelope(int pageNumber, IEnumerable<T> items)
+        {
+            Items = items;
+            PageNumber = pageNumber;
+        }
+        public int PageNumber { get; set; }
+        public IEnumerable<T> Items { get; set; }
+    }
+}

@@ -1,0 +1,59 @@
+version: '3.4'
+
+services:
+
+  email-service:
+    image: email-service
+    restart: on-failure
+    expose:
+      - 5672
+    build:
+      context: .
+      dockerfile: ./cryptocop-emails/Dockerfile
+    depends_on: 
+        #- rabbitmq
+        - cryptocopsoftwareapi
+
+
+  payment-service:
+    image: payment-service
+    restart: on-failure
+    expose:
+      - 5672
+    build:
+      context: .
+      dockerfile: ./cryptocop-payments/Dockerfile
+    depends_on: 
+        #- rabbitmq
+        - cryptocopsoftwareapi
+
+
+# Þetta startar en fæ alltaf
+# undefined: There is no template at js/tmpl/login.ejs undefined    fann ekki hvernig það er fiffað.
+#  rabbitmq:
+#    image: rabbitmq
+#    command: rabbitmq-server
+#    environment:
+#        RABBITMQ_DEFAULT_USER: guest
+#        RABBITMQ_DEFAULT_PASS: guest
+#    ports:
+#      - 5672:5672
+#      - 15672:15672
+#    depends_on: 
+#        - cryptocopsoftwareapi
+#    healthcheck:
+#      test: [ "CMD", "nc", "-z", "localhost", "5672" ]
+#      interval: 5s
+#      timeout: 15s
+#      retries: 1
+
+
+  cryptocopsoftwareapi:
+    image: cryptocopsoftwareapi
+    build:
+      context: .
+      dockerfile: Cryptocop.Software.API/Cryptocop.Software.API/Dockerfile
+    hostname: localhost
+    ports:
+      - 5000:80
+

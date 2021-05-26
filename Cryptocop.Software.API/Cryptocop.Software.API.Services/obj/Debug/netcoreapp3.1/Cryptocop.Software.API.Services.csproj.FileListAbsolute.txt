@@ -1,0 +1,14 @@
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.deps.json
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.dll
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.pdb
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.dll
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.dll
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.pdb
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.pdb
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.csprojAssemblyReference.cache
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.AssemblyInfoInputs.cache
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.AssemblyInfo.cs
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.csproj.CoreCompileInputs.cache
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.csproj.CopyComplete
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.dll
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.pdb

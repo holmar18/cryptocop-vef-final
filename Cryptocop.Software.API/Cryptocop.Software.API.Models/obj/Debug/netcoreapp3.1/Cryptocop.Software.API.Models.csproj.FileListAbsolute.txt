@@ -1,0 +1,9 @@
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.deps.json
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.dll
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.pdb
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.csprojAssemblyReference.cache
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.AssemblyInfoInputs.cache
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.AssemblyInfo.cs
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.dll
+C:\Users\holmar karl\Desktop\Vefþjónustur\Final Assignment\template\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.pdb

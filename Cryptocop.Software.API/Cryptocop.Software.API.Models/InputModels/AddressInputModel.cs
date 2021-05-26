@@ -1,0 +1,23 @@
+using System.ComponentModel.DataAnnotations;
+
+
+namespace Cryptocop.Software.API.Models
+{
+    public class AddressInputModel
+    {
+        [Required]
+        public string StreetName { get; set; }
+
+        [Required]
+        public string HouseNumber { get; set; }
+
+        [Required]
+        public string ZipCode { get; set; }
+
+        [Required]
+        public string Country { get; set; }
+
+        [Required]
+        public string City { get; set; }
+    }
+}
