@@ -5,9 +5,9 @@ import requests
 
 def email(data):
     return requests.post(
-        "https://api.mailgun.net/v3/sandboxbb86179bf55d46f4998e0eb25774e584.mailgun.org/messages",
-        auth=("api", "fd59924fb28750fb5623b0684c81044b-ea44b6dc-b056e537"),
-        data={"from": "Hólmar Karl <mailgun@sandboxbb86179bf55d46f4998e0eb25774e584.mailgun.org>",
+        "Your Mailgun",
+        auth=("api", "KEY"),
+        data={"from": "MailgunUSERNAME",
               "to": ["{0}".format(data['Email']), "{0}".format(data['Email'])],
               "subject": "Recipt for order number: %d" % data['Id'],
               "text": """Thank you for your purchase\n\n
